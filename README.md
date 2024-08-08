@@ -12,4 +12,4 @@ Clonar Repositório
 git clone https://github.com/karmineg/-ProjetoLPOOE1_Karmine.git
 ```
 
-<img src="./skyrim" height="500px"/>
+<img src="./skyrim.png" height="500px"/>
