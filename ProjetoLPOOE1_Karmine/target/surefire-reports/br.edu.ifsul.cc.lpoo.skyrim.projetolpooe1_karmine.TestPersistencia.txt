@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: br.edu.ifsul.cc.lpoo.skyrim.projetolpooe1_karmine.TestPersistencia
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.472 s -- in br.edu.ifsul.cc.lpoo.skyrim.projetolpooe1_karmine.TestPersistencia
